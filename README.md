@@ -1,10 +1,10 @@
 
 # Introduction to Machine Learning Coursework 2: Artificial Neural Networks
 
-This repository contains the implementation to coursework 2 of COMP70050 to estimate housing prices from given data. Please find more information and instructions below. 
+This repository contains the implementation to coursework 2 of COMP70050 to estimate housing prices from given data. Please find more information and instructions below. The following repository contains the pickle file of our neural network and has a report that describes our approach for conducting hyperparameter sweeping to find the best network architecture. 
 
 ## Acknowledgments
-I definitely didn't complete this project on my own and dedicate my thanks to the other contributors who spent much time working with me on this brilliant project (all contributors are listed below). The following repository contains the pickle file of our neural network and has a report that describes our approach for conducting hyperparameter sweeping to find the best network architecture. It was a gruelling but fantastic project experience and we learnt a lot about neural networks, hyperparameter sweeping and data preprocesing from implementing this project.   
+I definitely didn't complete this project on my own and dedicate my thanks to the other contributors who spent much time working with me on this brilliant project (all contributors are listed below). It was a gruelling but fantastic project experience and we learnt a lot about neural networks, hyperparameter sweeping and data preprocesing from implementing this project. 
 
 ## Contributors
 - Matthew Setiawan (ms3120)
