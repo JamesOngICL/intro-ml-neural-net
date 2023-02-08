@@ -1,0 +1,4 @@
+**/__pycache__
+**/*.pyc
+venv
+example_main_with_train_and_test.pickle
